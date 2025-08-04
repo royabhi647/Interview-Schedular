@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\InterviewScheduler\\Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78588033-A64A-45E3-BC41-A7E1ED87AF8E}|Server.csproj|f:\\interviewscheduler\\server\\services\\googlecalendarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78588033-A64A-45E3-BC41-A7E1ED87AF8E}|Server.csproj|solutionrelative:services\\googlecalendarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78588033-A64A-45E3-BC41-A7E1ED87AF8E}|Server.csproj|f:\\interviewscheduler\\server\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78588033-A64A-45E3-BC41-A7E1ED87AF8E}|Server.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78588033-A64A-45E3-BC41-A7E1ED87AF8E}|Server.csproj|f:\\interviewscheduler\\server\\services\\interviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78588033-A64A-45E3-BC41-A7E1ED87AF8E}|Server.csproj|solutionrelative:services\\interviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GoogleCalendarService.cs",
+              "DocumentMoniker": "F:\\InterviewScheduler\\Server\\Services\\GoogleCalendarService.cs",
+              "RelativeDocumentMoniker": "Services\\GoogleCalendarService.cs",
+              "ToolTip": "F:\\InterviewScheduler\\Server\\Services\\GoogleCalendarService.cs",
+              "RelativeToolTip": "Services\\GoogleCalendarService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAmwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T16:11:08.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InterviewService.cs",
+              "DocumentMoniker": "F:\\InterviewScheduler\\Server\\Services\\InterviewService.cs",
+              "RelativeDocumentMoniker": "Services\\InterviewService.cs",
+              "ToolTip": "F:\\InterviewScheduler\\Server\\Services\\InterviewService.cs",
+              "RelativeToolTip": "Services\\InterviewService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowCUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T14:56:35.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "F:\\InterviewScheduler\\Server\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "F:\\InterviewScheduler\\Server\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAkwCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T14:52:17.675Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
