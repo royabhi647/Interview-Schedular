@@ -175,3 +175,4 @@ F:\InterviewScheduler\Server\obj\Debug\net8.0\refint\Server.dll
 F:\InterviewScheduler\Server\obj\Debug\net8.0\Server.pdb
 F:\InterviewScheduler\Server\obj\Debug\net8.0\Server.genruntimeconfig.cache
 F:\InterviewScheduler\Server\obj\Debug\net8.0\ref\Server.dll
+F:\InterviewScheduler\Server\obj\Debug\net8.0\Server.sourcelink.json
